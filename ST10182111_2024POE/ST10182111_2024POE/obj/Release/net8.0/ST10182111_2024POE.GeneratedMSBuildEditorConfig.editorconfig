@@ -1,0 +1,127 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ST10182111_2024POE
+build_property.RootNamespace = ST10182111_2024POE
+build_property.ProjectDir = C:\Users\Admin.DESKTOP-OEECK2Q\Documents\GitHub\test2\ST10182111_2024POE\ST10182111_2024POE\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Admin.DESKTOP-OEECK2Q\Documents\GitHub\test2\ST10182111_2024POE\ST10182111_2024POE
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/Product/MyWork.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxNeVdvcmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/UserLead/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckxlYWRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/UserLead/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckxlYWRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/UserLead/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckxlYWRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/UserLead/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckxlYWRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/UserLead/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckxlYWRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/UserPayment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclBheW1lbnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/UserPayment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclBheW1lbnRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/UserPayment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclBheW1lbnRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/UserPayment/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclBheW1lbnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/UserPayment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclBheW1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin.DESKTOP-OEECK2Q/Documents/GitHub/test2/ST10182111_2024POE/ST10182111_2024POE/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2rz984xera
